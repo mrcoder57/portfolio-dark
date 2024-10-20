@@ -7,7 +7,7 @@ const Santander = () => {
     <div className=" w-full flex flex-col items-center justify-center">
       <div className=" flex flex-row  justify-between gap-x-32">
         <div className=" flex items-center justify-center w-[450px] h-[300px] relative">
-          <Image src={"/santander-curve.png"} alt="portfolio" fill />
+          <Image src={"/Santander-curve.png"} alt="portfolio" fill />
         </div>
         <p
           className={`${nanum_Pen_Script.className} mt-20 text-[40px] max-w-[450px] bg-gradient-to-r from-[#FF4646] to-[#FF9486] bg-clip-text text-transparent`}
@@ -17,14 +17,14 @@ const Santander = () => {
       </div>
       <div className=" flex flex-row-reverse items-center justify-between w-full my-14">
         <div className=" flex items-center justify-center relative w-[530px] h-[970px]">
-          <Image src={"/santander.png"} alt="portfolio" fill />
+          <Image src={"/Santander.png"} alt="portfolio" fill />
         </div>
         <div className=" flex flex-col justify-center">
           <div className=" flex flex-col justify-center ">
             <h2
               className={`${space_Mono.className} text-[48px] font-bold bg-gradient-to-r from-[#FF4646] to-[#FF9486] bg-clip-text text-transparent`}
             >
-              Mediastream
+              Santander
             </h2>
             <p
               className={`${space_Mono.className} text-[28px] font-bold  bg-gradient-to-r from-[#FF4646] to-[#FF9486] bg-clip-text text-transparent`}
