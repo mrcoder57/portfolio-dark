@@ -5,7 +5,7 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <div className=" flex flex-col items-center justify-center w-full h-full my-10 py-auto">
+    <div className=" flex flex-col items-center justify-center w-full h-full lg:my-10 lg:py-auto">
       <div className=" flex items-center justify-center text-center mt-14 ">
         <h2 className={`${space_Mono.className} text-[48px] font-bold`}>
           Skills
