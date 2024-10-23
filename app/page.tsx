@@ -14,7 +14,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div className=' flex flex-col max-w-7xl mx-auto items-center justify-center '>
-      <div className=' h-full flex items-center w-full justify-center'>
+      <div className=' flex items-center w-full h-screen justify-center'>
       <Welcome/>
       </div>
       <div className=' h-full flex items-center max-w-6xl w-full justify-center'>
